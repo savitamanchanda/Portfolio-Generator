@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "command-line tool that generates an HTML portfolio page from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savitamanchanda/Portfolio-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savitamanchanda/Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/savitamanchanda/Portfolio-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
